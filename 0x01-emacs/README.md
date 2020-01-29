@@ -1,0 +1,2 @@
+
+This project helps to know such a complete text editor that have got a lot of tools. Students can get started with this project by reading some basic commands and then practicing them with discipline. User can find a lot of information about emacs syntax and commands on Google and also youtube give some tricks. The mantaining and contribution to this project is made by holberton students and staff. 
